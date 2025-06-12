@@ -3394,8 +3394,9 @@ more {
   left: 20px !important;
   right: auto !important;
 }
-.FAM-toggle {
+body .FAM-toggle {
   left: 20px !important;
   right: auto !important;
+  bottom: 20px !important;
 }
 
