@@ -3394,9 +3394,12 @@ more {
   left: 20px !important;
   right: auto !important;
 }
-body .FAM-toggle {
+#FAM-toggle,
+.FAM-toggle {
   left: 20px !important;
   right: auto !important;
   bottom: 20px !important;
+  position: fixed !important;
 }
+
 
